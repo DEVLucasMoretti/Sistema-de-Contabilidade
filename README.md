@@ -2,6 +2,7 @@
 
 ![Capa do Projeto](img/Cutrale.png)
 
+
 ## 📘 Sobre o Projeto
 
 O **Sistema de Controle Contábil** foi desenvolvido com o objetivo de **automatizar e otimizar o gerenciamento de ordens de serviço** de uma empresa contábil.  
